@@ -1,5 +1,5 @@
 import './style.css'
-import { run } from './public/01-intro/01-var.js'
+import { run } from './public/01-intro/03-const.js'
 
 document.querySelector('#app').innerHTML = `
   <div id="result" >
